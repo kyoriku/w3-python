@@ -1,3 +1,6 @@
+# Comparison Operators
+# Comparison operators are used to compare two values:
+
 # Equal to
 x = 5
 y = 3

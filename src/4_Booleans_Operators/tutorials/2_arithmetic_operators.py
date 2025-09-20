@@ -1,3 +1,6 @@
+# Arithmetic Operators
+# Arithmetic operators are used with numeric values to perform common mathematical operations:
+
 # Addition
 x = 5
 y = 3
