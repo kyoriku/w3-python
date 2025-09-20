@@ -1,3 +1,6 @@
+# Membership Operators
+# Membership operators are used to test if a sequence is presented in an object:
+
 # In
 x = ["apple", "banana"]
 print("banana" in x) # returns True because a sequence with the value "banana" is in the list

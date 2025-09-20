@@ -1,3 +1,6 @@
+# Assignment Operators
+# Assignment operators are used to assign values to variables:
+
 # Variable Assignment
 x = 5
 print(x)

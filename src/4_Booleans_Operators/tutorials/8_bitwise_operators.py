@@ -1,3 +1,6 @@
+# Bitwise Operators
+# Bitwise operators are used to compare (binary) numbers:
+
 # AND
 print(6 & 3)
 """
