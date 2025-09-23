@@ -43,18 +43,25 @@ cd w3-python
 
 You can then run any of the Python files with:
 ```bash
-python src/folder/filename.py
+python src/section/category/filename.py
 ```
 
 Or explicitly use Python 3:
 ```bash
-python3 src/folder/filename.py
+python3 src/section/category/filename.py
 ```
 
 For example, to run the hello world script:
 ```bash
-python3 src/0_Intro/1_hello_world.py
+python3 src/0_intro/challenges/1_hello_world.py
 ```
+
+### Repository Structure
+Files are organized by tutorial section and type:
+- `tutorials/` - Core concept demonstrations and examples
+- `exercises/` - Quiz-style questions and answers  
+- `challenges/` - Hands-on coding exercises
+- `methods/` - Built-in method demonstrations
 
 ## Learning Goals
 These exercises help build hands-on experience in the following areas:
